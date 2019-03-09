@@ -3,13 +3,10 @@ import './FetchRandomUser.css';
 import { ClipLoader } from 'react-spinners';
 
 class FetchRandomUser extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
+    state = {
       loading: true,
       people: [],
     };
-  }
 
   async componentDidMount() {
     const quantity = this.props.match.params.quantity;
