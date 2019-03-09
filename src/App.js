@@ -12,7 +12,6 @@ class App extends Component {
 				<div className='App'>
 					<Switch>
 						<Route path="/" exact component={FetchRandomUser}></Route>
-						<Route path="/size=:quantity" exact component={FetchRandomUser}></Route>
 						<Route component={Error} />
 					</Switch>
 				</div>

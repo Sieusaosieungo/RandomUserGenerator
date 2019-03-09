@@ -1,20 +1,21 @@
 import React, { Component } from 'react';
 import './FetchRandomUser.css';
 import { ClipLoader } from 'react-spinners';
+import queryString from 'query-string';
 
 class FetchRandomUser extends Component {
-    state = {
-      loading: true,
-      people: [],
-    };
+  state = {
+    loading: true,
+    people: []
+  };
 
   async componentDidMount() {
-    const quantity = this.props.match.params.quantity;
+    const values = queryString.parse(this.props.location.search);
     let numberUsers;
-    if (!quantity) {
+    if (!values.size) {
       numberUsers = 100;
-    }else {
-      numberUsers = quantity;
+    } else {
+      numberUsers = values.size;
     }
 
     let url = 'https://api.randomuser.me/?results=' + numberUsers;
