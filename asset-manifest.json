@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.1902e3a8.chunk.css",
-  "main.js": "/static/js/main.9fb978fd.chunk.js",
-  "main.js.map": "/static/js/main.9fb978fd.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-  "static/js/2.d51526cf.chunk.js": "/static/js/2.d51526cf.chunk.js",
-  "static/js/2.d51526cf.chunk.js.map": "/static/js/2.d51526cf.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.ab6e6173111bcd5d458e6671dc707d75.js": "/precache-manifest.ab6e6173111bcd5d458e6671dc707d75.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.1902e3a8.chunk.css.map": "/static/css/main.1902e3a8.chunk.css.map",
-  "static/media/style.css": "/static/media/text.43214024.png"
+  "main.css": "/deployedclicky/static/css/main.d5d0c061.chunk.css",
+  "main.js": "/deployedclicky/static/js/main.a2883749.chunk.js",
+  "main.js.map": "/deployedclicky/static/js/main.a2883749.chunk.js.map",
+  "runtime~main.js": "/deployedclicky/static/js/runtime~main.d1e50f32.js",
+  "runtime~main.js.map": "/deployedclicky/static/js/runtime~main.d1e50f32.js.map",
+  "static/js/2.d51526cf.chunk.js": "/deployedclicky/static/js/2.d51526cf.chunk.js",
+  "static/js/2.d51526cf.chunk.js.map": "/deployedclicky/static/js/2.d51526cf.chunk.js.map",
+  "index.html": "/deployedclicky/index.html",
+  "precache-manifest.6eda622d463bf17b54d565e0e7971200.js": "/deployedclicky/precache-manifest.6eda622d463bf17b54d565e0e7971200.js",
+  "service-worker.js": "/deployedclicky/service-worker.js",
+  "static/css/main.d5d0c061.chunk.css.map": "/deployedclicky/static/css/main.d5d0c061.chunk.css.map",
+  "static/media/style.css": "/deployedclicky/static/media/text.43214024.png"
 }
