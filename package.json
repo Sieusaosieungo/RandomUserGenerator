@@ -2,7 +2,17 @@
   "name": "random-user",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sieusaosieungo.github.io",
   "dependencies": {
+    "axios": "^0.18.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.4",
+    "gh-pages": "^2.0.1",
+    "prettier": "^1.16.4",
     "prop-types": "^15.7.2",
     "query-string": "^6.3.0",
     "react": "^16.8.4",
@@ -12,10 +22,13 @@
     "react-spinners": "^0.5.3"
   },
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint": "eslint . --ext .js -f ./.eslintformatter.js; exit 0"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -25,14 +38,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "devDependencies": {
-    "eslint": "^5.15.1",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-config-standard-jsx": "^6.0.2",
-    "eslint-plugin-import": "^2.16.0",
-    "eslint-plugin-prettier": "^3.0.1",
-    "eslint-plugin-react-app": "^4.0.1",
-    "prettier": "^1.16.4"
-  }
+  ]
 }
