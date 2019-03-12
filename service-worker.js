@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Sieusaosieungo/RandomUserGenerator/precache-manifest.a29e4cc3e9f5fd16525ecd992192571a.js"
+  "/randomusergenerator/precache-manifest.6ccdfe8c879d64578c391a94eae5d321.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Sieusaosieungo/RandomUserGenerator/index.html", {
+workbox.routing.registerNavigationRoute("/randomusergenerator/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

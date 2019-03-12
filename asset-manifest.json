@@ -1,14 +1,14 @@
 {
-  "main.css": "/Sieusaosieungo/RandomUserGenerator/static/css/main.917d0ae9.chunk.css",
-  "main.js": "/Sieusaosieungo/RandomUserGenerator/static/js/main.ca6cc622.chunk.js",
-  "main.js.map": "/Sieusaosieungo/RandomUserGenerator/static/js/main.ca6cc622.chunk.js.map",
-  "runtime~main.js": "/Sieusaosieungo/RandomUserGenerator/static/js/runtime~main.a03a6f02.js",
-  "runtime~main.js.map": "/Sieusaosieungo/RandomUserGenerator/static/js/runtime~main.a03a6f02.js.map",
-  "static/js/2.7a94a121.chunk.js": "/Sieusaosieungo/RandomUserGenerator/static/js/2.7a94a121.chunk.js",
-  "static/js/2.7a94a121.chunk.js.map": "/Sieusaosieungo/RandomUserGenerator/static/js/2.7a94a121.chunk.js.map",
-  "index.html": "/Sieusaosieungo/RandomUserGenerator/index.html",
-  "precache-manifest.a29e4cc3e9f5fd16525ecd992192571a.js": "/Sieusaosieungo/RandomUserGenerator/precache-manifest.a29e4cc3e9f5fd16525ecd992192571a.js",
-  "service-worker.js": "/Sieusaosieungo/RandomUserGenerator/service-worker.js",
-  "static/css/main.917d0ae9.chunk.css.map": "/Sieusaosieungo/RandomUserGenerator/static/css/main.917d0ae9.chunk.css.map",
-  "static/media/style.css": "/Sieusaosieungo/RandomUserGenerator/static/media/text.43214024.png"
+  "main.css": "/randomusergenerator/static/css/main.f92b05cc.chunk.css",
+  "main.js": "/randomusergenerator/static/js/main.f10df4da.chunk.js",
+  "main.js.map": "/randomusergenerator/static/js/main.f10df4da.chunk.js.map",
+  "runtime~main.js": "/randomusergenerator/static/js/runtime~main.35cfe928.js",
+  "runtime~main.js.map": "/randomusergenerator/static/js/runtime~main.35cfe928.js.map",
+  "static/js/2.7a94a121.chunk.js": "/randomusergenerator/static/js/2.7a94a121.chunk.js",
+  "static/js/2.7a94a121.chunk.js.map": "/randomusergenerator/static/js/2.7a94a121.chunk.js.map",
+  "index.html": "/randomusergenerator/index.html",
+  "precache-manifest.6ccdfe8c879d64578c391a94eae5d321.js": "/randomusergenerator/precache-manifest.6ccdfe8c879d64578c391a94eae5d321.js",
+  "service-worker.js": "/randomusergenerator/service-worker.js",
+  "static/css/main.f92b05cc.chunk.css.map": "/randomusergenerator/static/css/main.f92b05cc.chunk.css.map",
+  "static/media/style.css": "/randomusergenerator/static/media/text.43214024.png"
 }
