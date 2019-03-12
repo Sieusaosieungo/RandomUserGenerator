@@ -1,14 +1,14 @@
 {
-  "main.css": "/deployedclicky/static/css/main.d5d0c061.chunk.css",
-  "main.js": "/deployedclicky/static/js/main.b6be592b.chunk.js",
-  "main.js.map": "/deployedclicky/static/js/main.b6be592b.chunk.js.map",
-  "runtime~main.js": "/deployedclicky/static/js/runtime~main.d1e50f32.js",
-  "runtime~main.js.map": "/deployedclicky/static/js/runtime~main.d1e50f32.js.map",
-  "static/js/2.d51526cf.chunk.js": "/deployedclicky/static/js/2.d51526cf.chunk.js",
-  "static/js/2.d51526cf.chunk.js.map": "/deployedclicky/static/js/2.d51526cf.chunk.js.map",
-  "index.html": "/deployedclicky/index.html",
-  "precache-manifest.f79bee484a9301a6ecda00478f1d5ee5.js": "/deployedclicky/precache-manifest.f79bee484a9301a6ecda00478f1d5ee5.js",
-  "service-worker.js": "/deployedclicky/service-worker.js",
-  "static/css/main.d5d0c061.chunk.css.map": "/deployedclicky/static/css/main.d5d0c061.chunk.css.map",
-  "static/media/style.css": "/deployedclicky/static/media/text.43214024.png"
+  "main.css": "/RandomuserGenerator/static/css/main.d24308a0.chunk.css",
+  "main.js": "/RandomuserGenerator/static/js/main.947139bb.chunk.js",
+  "main.js.map": "/RandomuserGenerator/static/js/main.947139bb.chunk.js.map",
+  "runtime~main.js": "/RandomuserGenerator/static/js/runtime~main.bb6f62fe.js",
+  "runtime~main.js.map": "/RandomuserGenerator/static/js/runtime~main.bb6f62fe.js.map",
+  "static/js/2.7a94a121.chunk.js": "/RandomuserGenerator/static/js/2.7a94a121.chunk.js",
+  "static/js/2.7a94a121.chunk.js.map": "/RandomuserGenerator/static/js/2.7a94a121.chunk.js.map",
+  "index.html": "/RandomuserGenerator/index.html",
+  "precache-manifest.33b2cbe41a19f70451f50ab0ef7f80e0.js": "/RandomuserGenerator/precache-manifest.33b2cbe41a19f70451f50ab0ef7f80e0.js",
+  "service-worker.js": "/RandomuserGenerator/service-worker.js",
+  "static/css/main.d24308a0.chunk.css.map": "/RandomuserGenerator/static/css/main.d24308a0.chunk.css.map",
+  "static/media/style.css": "/RandomuserGenerator/static/media/text.43214024.png"
 }
